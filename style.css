@@ -7,7 +7,9 @@ body{
   background-color: #FFFFFF;
   margin: 0;
 }
-
+h3{
+  color: #9b59b6;
+}
 /* header and top feature area */
 .feature{
   display: grid;
@@ -21,6 +23,8 @@ body{
   font-size: 64px;
   color: #FFFFFF;
   width: 485px;
+  
+  font-weight: 700px;
 }
 
 .link-button a{
