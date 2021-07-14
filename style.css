@@ -23,8 +23,8 @@ h3{
   font-size: 64px;
   color: #FFFFFF;
   width: 485px;
-  
   font-weight: 700px;
+  transition: 0.8s;
 }
 
 .link-button a{
@@ -37,6 +37,14 @@ h3{
 .header-banner img{
   width: 550px;
   height: 440px;
+}
+
+/* hover effect */
+h1:hover{
+  color: #f1c40f;
+}
+.latest-news:hover{
+  color: #2c3e50;
 }
 
 /* blog and player description style */
@@ -123,18 +131,20 @@ bonus section
 } 
 .login-form input,
 button {
-
+  padding: 10px;
   font-size: 1.3em;
   margin-top: 10px;
   border: 1px solid gray;
-  border-radius: 5px;
+  border-radius: 10px;
   padding-left: 10px;
+  background-color: rgb(228, 238, 214);
 }
 
 .login-form button {
   background-color: rgb(21, 255, 0);
   color: rgb(0, 0, 0);
   font-weight: 700px;
+  
 }
 .header-title h2{
   color: #f1c40f;
