@@ -64,12 +64,30 @@ h3{
   font-size: 16px;
 }
 
+/* bonus section */
+
+.latest-news{
+  background-color: #ecf0f1;
+  text-align: center;
+  border: 1px solid gray;
+  border-radius: 10px;
+  margin: 0 25px;
+  padding: 10px;
+  box-shadow: 1px 1px 8px 2px grey;
+
+}
+.header-title h2{
+  color: #f1c40f;
+}
+
 /* logo and social section style */
 .social{
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  padding-top: 50px;
+  padding-bottom: 63px;
 }
 
 .logo img{
