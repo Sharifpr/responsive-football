@@ -46,6 +46,7 @@ article{
  ---------------*/
 .container{
     display: flex;
+    grid-template-columns: repeat(1,1fr);
     background-color: rgb(0, 32, 214);
     flex-direction: row;
     align-items: center;
