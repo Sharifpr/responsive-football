@@ -118,7 +118,7 @@ button:hover{
 /* another section for bonus */
 
 .anotherdiv{
-    width: 1008px;
+    width: 1072px;
     text-align: center;
     border: 0px solid;
     box-shadow: 0px 0px 5px 1px;
@@ -126,7 +126,8 @@ button:hover{
     padding: 20px;
     background-color: #ecf0f1;
     transition: ease-in-out 0.5s;
-    margin-left: 250px;
+    padding-left: 130px;
+    
 }
 
 .anotherdiv img{
